@@ -1,0 +1,28 @@
+
+# Diretórios de build
+/target/
+
+# Configurações de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Credenciais sensíveis (caso existam)
+application.properties
+
+# Maven
+.mvn/
